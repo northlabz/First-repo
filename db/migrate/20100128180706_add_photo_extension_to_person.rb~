@@ -1,0 +1,9 @@
+class AddPhotoExtensionToPerson < ActiveRecord::Migration
+  def self.up
+  	add_column :people, :extention, :string
+  end
+
+  def self.down
+  	remove_column :people, :extention
+  end
+end

@@ -1,0 +1,25 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  country: MyString
+  email: MyString
+  description: MyText
+  can_send_email: false
+  graduation_year: 1
+  body_temperature: 1.5
+  price: 9.99
+  birthday: 2010-01-23
+  favorite_time: 2010-01-23 15:15:11
+
+two:
+  name: MyString
+  country: MyString
+  email: MyString
+  description: MyText
+  can_send_email: false
+  graduation_year: 1
+  body_temperature: 1.5
+  price: 9.99
+  birthday: 2010-01-23
+  favorite_time: 2010-01-23 15:15:11
